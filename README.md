@@ -1,6 +1,6 @@
 # Hugo Test #2
 
-## DEMO -->  [Counter](https://awesome-shannon-3930c2.netlify.app/)
+## DEMO -->  [Temperature Converte](https://awesome-shannon-3930c2.netlify.app/)
 
 This is the task #2 of the "7GUIs: A GUI Programming Benchmark" wich is the Temperature Converter
 
